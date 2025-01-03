@@ -18,8 +18,8 @@ A simple top-down shooter game implemented using OpenGL and GLUT. Control a play
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/top-down-shooter.git
-    cd top-down-shooter
+    git clone https://github.com/amromeshref/Top-Down-Shooter-Game.git
+    cd Top-Down-Shooter-Game
     ```
 
 2. Ensure you have the required dependencies installed:
